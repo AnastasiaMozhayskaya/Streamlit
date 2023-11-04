@@ -6,4 +6,4 @@
 
 [Ощути прелесть SVD в Изображениях](https://app-jkejxixjvwp978fbrdghtl.streamlit.app/)
 
-[Модель Логистической регрессии](https://app-fj8xaapyfuiu48t862zagz.streamlit.app/)
+[Модель Логистической регрессии](https://app-dyyhtucwuccwittbwtxjpv.streamlit.app/)
